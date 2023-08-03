@@ -8,8 +8,5 @@ Esse projeto foi realizado de forma à ensinar aos alunos como utilizar o github
 
 ## Como Executar
 
-
-
-### Repositories
-
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
+Utilize o git clone ou download ZIP na sua máquina, após isso abra o arquivo no visual studio code.
+Aperte em "Run", "Start Debugging" e selecione um navegador, (edge de preferência).
