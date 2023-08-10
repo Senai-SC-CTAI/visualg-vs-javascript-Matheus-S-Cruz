@@ -1,0 +1,26 @@
+body {
+    background-color: #1e0133;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Cascadia Code', sans-serif;
+  }
+
+  button {
+    width: 165px;
+    height: 62px;
+    font-size: 17px;
+    border-radius: 1rem;
+    border: none;
+    position: relative;
+    color: #100720;
+    text-align: center;
+    text-shadow: 1px 2px 1px rgb(60, 63, 253);
+    background-color: rgb(53, 116, 252);
+}
+.imagemIndex{
+  background-image: url("https://matheus-s-cruz.github.io/projetologica/Imagens/CodigoIndexHtml.png");
+  background-repeat: no-repeat;
+}
+.imagemJs{
+  background-image: url("https://matheus-s-cruz.github.io/projetologica/Imagens/CodigoScriptJs.png");
+}
